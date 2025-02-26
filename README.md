@@ -4,7 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1) Explain what software engineering is and discuss its importance in the technology industry.
+i) Explain what software engineering is and discuss its importance in the technology industry.
 
 > Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems.
 
@@ -12,7 +12,7 @@ Importance in the technology Industry
 >Software engineering plays a crucial role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 
-2) Identify and describe at least three key milestones in the evolution of software engineering.
+ii) Identify and describe at least three key milestones in the evolution of software engineering.
 
 1. The development of programming languages (e.g Fortran, COBOL) - the introduction of languages like FORTRAN and COBOL made programming more accessible by abstracting hardware complexity, enabling the development of more sophisticated software systems.
 
@@ -20,7 +20,7 @@ Importance in the technology Industry
 
 3. The establishment of software engineering as a discipline in the 1960s-Software engineering was established in response to challenges like project overruns and unreliable software. This led to structured programming, modular design, and formal methodologies to manage the software lifecycle.
 
-3) List and briefly explain the phases of the Software Development Life Cycle.
+iii) List and briefly explain the phases of the Software Development Life Cycle.
 
 1. Requirements and Gathering phase: Gathering and documenting user needs and system requirements.  
 
@@ -34,7 +34,7 @@ Importance in the technology Industry
 
 6. Maintenance phase: Providing ongoing support, updates, and enhancements to the software after deployment.
 
-4) Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+iv) Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Waterfall Methodology involves a linear, sequential approach where each phase (requirements, design, implementation, testing, deployment, maintenance) is completed before moving to the next; while Agile Methodology involves an iterative, flexible approach where development is broken into small increments with continuous feedback and adaptation.
 
@@ -47,7 +47,7 @@ Example Scenarios for the Agile methodology:
 1. Startup Product Development: A startup building a new app where requirements may evolve based on user feedback.
 2. E-commerce Platforms: Developing a dynamic online store where features need to be added or modified frequently based on market trends.
 
-5) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+v) Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 1. Software Developer role: Responsible for designing, coding, and implementing software solutions.
 Responsibilities: Write and maintain code, debug issues, collaborate with team members, and stay updated on technologies.
@@ -58,13 +58,13 @@ Responsibilities: Develop and execute test plans, identify and report bugs, and 
 3. Project Manager role: Oversees the planning, execution, and delivery of the software project.
 Responsibilities: Define project goals, manage timelines and resources, facilitate communication, and ensure on-time delivery.
 
-6) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+vi) Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 IDEs provide comprehensive tools for writing, debugging, and testing code. Examples include: Visual Studio code, IntelliJ IDEA, PyCharm
 
 VCS are used for tracking changes to source code and coordinating work among team members. Examples include: Git, Subversion (SVN), Mercurial.
 
-7) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+vii) What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 1. Changing Requirements: Requirements may change during the development cycle, leading to scope creep and project delays.  
 
@@ -74,7 +74,7 @@ VCS are used for tracking changes to source code and coordinating work among tea
 
 Strategies for overcoming challenges include: Effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
-8) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+viii) Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 1. Unit Testing: Testing individual components or modules of software.
 
@@ -96,7 +96,7 @@ Importance in Software Quality Assurance:
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-1) Define prompt engineering and discuss its importance in interacting with AI models.
+i) Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the process of designing and refining input prompts to effectively interact with AI models.
 
@@ -110,7 +110,7 @@ Importance of Prompt Engineering:
 
 4. User Experience: Better prompts lead to more useful and engaging interactions, improving the overall experience for users.
 
-2) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ii) Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 Vague prompt:"Tell me something cheesy"
 
